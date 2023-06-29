@@ -1,0 +1,11 @@
+Metrics for final Adjustment:
+
+
+Average MAE after Adjustment:
+39.65946720156086
+
+Average MAE without Adjustment:
+39.71343851898221
+
+Improvement:
+0.9986409810020466
