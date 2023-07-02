@@ -29,7 +29,7 @@ caseID = df.loc[df['Prefix'] == 19]["CaseID"]
 
 df = df[df['CaseID'].isin(caseID)]
 
-for i in range(1, 20):
+for i in range(1, 10):
 
 
     train, test = train_test_split(df.loc[df['Prefix'] == 2], test_size=0.2)
