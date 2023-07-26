@@ -12,6 +12,7 @@ The results of this are stored in output_files
 
 For more details regarding the PREDICTIONS, please refer to the [project page](https://verenich.github.io/ProcessSequencePrediction)
 
-2, On the Predictions the ADJUSTMENT FOR REGRESSION TOWARDS THE MEAN has been done in the files helpdesk_analysis.py and env_permit_analysis.py.
+2, On the Predictions the ADJUSTMENT FOR REGRESSION TOWARDS THE MEAN has been done in the files helpdesk.py and env_permit.py.
 
-The results of this are stored in MyResults.
+Both scripts produce four graphs which are shown in the seminar paper, in main directory (Code). On the helpdesk dataset there needs to be four lines of code commented out, in order to produce the graph for the filtered dataset, which is also written in the script
+The graphs can also be found in the folder MyResults without running the scripts.
